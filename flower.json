@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Роза",
+      "latin_name": "Rosa",
+      "is_red_book_flower": false,
+      "price": 15.0
+    },
+    {
+      "id": 2,
+      "name": "Тюльпан",
+      "latin_name": "Tulipa",
+      "is_red_book_flower": false,
+      "price": 7.0
+    },
+    {
+      "id": 3,
+      "name": "Орхидея",
+      "latin_name": "Orchidaceae",
+      "is_red_book_flower": true,
+      "price": 25.0
+    },
+    {
+      "id": 4,
+      "name": "Нарцисс",
+      "latin_name": "Narcissus",
+      "is_red_book_flower": false,
+      "price": 5.0
+    },
+    {
+      "id": 5,
+      "name": "Подснежник",
+      "latin_name": "Galanthus",
+      "is_red_book_flower": true,
+      "price": 10.0
+    }
+  ]
